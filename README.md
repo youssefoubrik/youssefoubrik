@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Youssef Oubrik
 
-🎓 Software Engineering Student at ENSA Agadir  
-🌍 Based in Agadir, Morocco  
+🎓 Software Engineering Student 
 🔗 [LinkedIn](https://www.linkedin.com/in/youssefoubrik/) | [X (Twitter)](https://x.com/yo_oubrik)
 
 ---
