@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student at ENSA Agadir  
 🌍 Based in Agadir, Morocco  
-🔗 [LinkedIn](https://www.linkedin.com/in/youssefoubrik/)
+🔗 [LinkedIn](https://www.linkedin.com/in/youssefoubrik/) | [X (Twitter)](https://x.com/yo_oubrik)
 
 ---
 
