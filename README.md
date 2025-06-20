@@ -38,7 +38,7 @@ Technologies I've worked with before:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=youssefoubrik&locale=en&mode=weekly&hide_border=false&border_radius=5&theme=dark" height="160" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=youssefoubrik&locale=en&mode=weekly&hide_border=false&border_radius=5&theme=dark" height="160" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefoubrik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false&theme=dark" height="160" alt="Top Languages"/>
 </div>
